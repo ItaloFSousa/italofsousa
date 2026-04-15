@@ -13,19 +13,19 @@
 <br>
 
 ## 🎯 Sobre mim
-Desenvolvo aplicações backend utilizando Node.js, com foco na criação de API's e sistemas web. Tenho interesse em arquitetura de sistemas, performance e código limpo.<br>
-Busco evoluir constantemente na área de desenvolvimento de software, criando projetos e aprimorando minhas habilidades. 🚀
+Desenvolvo aplicações backend utilizando Node.js, com foco na criação de APIs e sistemas web. Tenho interesse em arquitetura de sistemas, performance e código limpo.<br>
+Busco evoluir constantemente na área de desenvolvimento de software, criando projetos e aprimorando minhas habilidades.
 
 <br>
 
 ## 💻 O que eu faço
 
--   Desenvolvimento de API's REST com Node.js
+-   Desenvolvimento de APIs REST com Node.js
 -   Integração entre sistemas (frontend e backend)
 -   Modelagem e manipulação de dados com MongoDB
 -   Foco em código limpo e organização
 -   Organização e estruturação de aplicações backend
--   Testes e consumo de API's (HTTP)
+-   Testes e consumo de APIs (HTTP)
 -   Desenvolvimento de projetos próprios
 
 <br>
