@@ -51,7 +51,7 @@ Busco evoluir constantemente na área de desenvolvimento de software, criando pr
 ### 📈 Atividade de desenvolvimento
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=italokauafernandesdesousa&bg_color=0d1117&color=339933&line=339933&point=ffffff&area_color=339933&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ItaloFSousa&bg_color=0d1117&color=339933&line=339933&point=ffffff&area_color=339933&area=true&hide_border=true"/>
 </p>
 
 <br>
@@ -67,7 +67,7 @@ Busco evoluir constantemente na área de desenvolvimento de software, criando pr
 - Estrutura organizada (rotas, controllers, etc.)
 - Foco em organização e boas práticas de backend
 
-🔗 Link do repositório: [GitHub](https://github.com/italokauafernandesdesousa/gestao-vendas)
+🔗 Link do repositório: [GitHub](https://github.com/ItaloFSousa/gestao-vendas)
 
 <br>
 
