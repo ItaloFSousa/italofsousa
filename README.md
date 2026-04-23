@@ -33,8 +33,8 @@ Busco evoluir constantemente na área de desenvolvimento de software, criando pr
 ### 🧠 Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express" height="38"/>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,prisma" height="38"/>
+  <img src="https://skillicons.dev/icons?i=js,nodejs,nestjs" height="38"/>
+  <img src="https://skillicons.dev/icons?i=mysql,prisma" height="38"/>
   
 </p>
 
