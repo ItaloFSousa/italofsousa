@@ -56,21 +56,6 @@ Busco evoluir constantemente na área de desenvolvimento de software, criando pr
 
 <br>
 
-### 📂 Projetos
-
-#### 🔹 API de gestão de vendas
-🚧 Projeto em desenvolvimento
-
-- API REST desenvolvida com Node.js
-- Integração com MongoDB
-- Operações CRUD completas
-- Estrutura organizada (rotas, controllers, etc.)
-- Foco em organização e boas práticas de backend
-
-🔗 Link do repositório: [GitHub](https://github.com/ItaloFSousa/gestao-vendas)
-
-<br>
-
 ### 🌐 Contato
 
 <p align="center">
