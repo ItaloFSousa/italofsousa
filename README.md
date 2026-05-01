@@ -3,7 +3,7 @@
 <h1 align="center">Italo Sousa</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=339933&size=22&center=true&vCenter=true&width=600&lines=Desenvolvimento+de+Software;Backend+Developer;Em+constante+evolução" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=339933&size=22&center=true&vCenter=true&width=600&lines=Desenvolvimento+de+Software;Desenvolvedor+Backend;Em+constante+evolução" />
 </p>
 
 <p align="center">
