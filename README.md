@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=339933&height=130&section=header"/>
 
-<h1 align="center">Italo Sousa 💻</h1>
+<h1 align="center">Italo Sousa</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=339933&size=22&center=true&vCenter=true&width=600&lines=Desenvolvimento+de+Software;Backend+Developer;Em+constante+evolução" />
