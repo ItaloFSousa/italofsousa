@@ -22,7 +22,7 @@ Busco evoluir constantemente na área de desenvolvimento de software, criando pr
 
 -   Desenvolvimento de APIs REST com Node.js
 -   Integração entre sistemas (frontend e backend)
--   Modelagem e manipulação de dados com MongoDB
+-   Modelagem e manipulação de dados com MySQL
 -   Foco em código limpo e organização
 -   Organização e estruturação de aplicações backend
 -   Testes e consumo de APIs (HTTP)
