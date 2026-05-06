@@ -43,7 +43,7 @@ Busco evoluir constantemente na área de desenvolvimento de software, criando pr
 ### ⚙️ Ferramentas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" height="38"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="38"/>
 </p>
 
 <br>
