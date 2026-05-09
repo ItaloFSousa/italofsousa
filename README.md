@@ -1,9 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=339933&height=130&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E0234E&height=130&section=header"/>
 
 <h1 align="center">Italo Sousa</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=339933&size=22&center=true&vCenter=true&width=600&lines=Desenvolvimento+de+Software;Desenvolvedor+Backend;Em+constante+evolução" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=E0234E&size=22&center=true&vCenter=true&width=600&lines=Desenvolvimento+de+Software;Desenvolvedor+Backend;Em+constante+evolução" />
 </p>
 
 <p align="center">
@@ -12,52 +12,59 @@
 
 <br>
 
-## 🎯 Sobre mim
-Desenvolvo aplicações backend utilizando Node.js, com foco na criação de APIs e sistemas web. Tenho interesse em arquitetura de sistemas, performance e código limpo.<br>
-Busco evoluir constantemente na área de desenvolvimento de software, criando projetos e aprimorando minhas habilidades.
-
-<br>
-
-## 💻 O que eu faço
-
--   Desenvolvimento de APIs REST com Node.js
--   Integração entre sistemas (frontend e backend)
--   Modelagem e manipulação de dados com MySQL
--   Foco em código limpo e organização
--   Organização e estruturação de aplicações backend
--   Testes e consumo de APIs (HTTP)
--   Desenvolvimento de projetos próprios
-
-<br>
-
-### 🧠 Tecnologias
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs" height="38"/>
-  <img src="https://skillicons.dev/icons?i=mysql,prisma" height="38"/>
-  
-</p>
-
-<br>
-
-### ⚙️ Ferramentas
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="38"/>
-</p>
-
-<br>
-
-### 📈 Atividade de desenvolvimento
-
+<h2 align="center">
+  🎯 Sobre mim
+</h2>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ItaloFSousa&bg_color=0d1117&color=339933&line=339933&point=ffffff&area_color=339933&area=true&hide_border=true"/>
+  Desenvolvo aplicações backend e APIs REST utilizando NestJS. Tenho interesse em arquitetura de sistemas, performance e código limpo.<br>
+  Busco evoluir constantemente na área de desenvolvimento de software, criando projetos e aprimorando minhas habilidades.
 </p>
 
 <br>
 
-### 🌐 Contato
+<h2 align="center">
+  💻 Skills
+</h2>
+<p align="center">
+  NestJS • Node.js • APIs REST<br>
+  Prisma ORM • MySQL • Modelagem de Dados<br>
+  Código limpo • Organização • Estruturação<br>
+  HTTP • Consumo e testes de APIs • Insomnia
+</p>
 
+<br>
+
+<h2 align="center">
+  🧠 Tecnologias
+</h2>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,express" /><br>
+    <img src="https://skillicons.dev/icons?i=prisma,mysql,mongodb" />
+</p>
+
+<br>
+
+<h2 align="center">
+  ⚙️ Ferramentas
+</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" /><br>
+</p>
+
+<br>
+
+<h2 align="center">
+  📈 Atividade de desenvolvimento
+</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ItaloFSousa&bg_color=0d1117&color=E0234E&line=E0234E&point=ffffff&area_color=E0234E&area=true&hide_border=true"/>
+</p>
+
+<br>
+
+<h2 align="center">
+  🌐 Contato
+</h2>
 <p align="center">
   <a href="mailto:sousaitalodev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-FF4C4C?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -75,4 +82,4 @@ Busco evoluir constantemente na área de desenvolvimento de software, criando pr
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=339933&height=130&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E0234E&height=130&section=footer"/>
