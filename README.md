@@ -38,8 +38,8 @@
   🧠 Tecnologias
 </h2>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,express" /><br>
-    <img src="https://skillicons.dev/icons?i=prisma,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs" /><br>
+    <img src="https://skillicons.dev/icons?i=prisma,mysql" />
 </p>
 
 <br>
