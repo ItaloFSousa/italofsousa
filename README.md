@@ -70,4 +70,4 @@
   <h3>Obrigado por visitar meu perfil!</h3>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=170&color=D00405%20&fontAlign=50&animation=fadeIn&fontSize=50&fontAlignY=30&descAlignY=50&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=D00405%20&fontAlign=50&animation=fadeIn&fontSize=50&fontAlignY=30&descAlignY=50&section=footer"/>
