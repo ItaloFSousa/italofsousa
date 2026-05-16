@@ -9,8 +9,9 @@
 ## 🎯 Sobre mim
 <p>
   Desenvolvo aplicações backend e APIs REST utilizando NestJS. Tenho interesse em arquitetura de sistemas, performance e código limpo.<br>
-  Busco evoluir constantemente na área de desenvolvimento de software, criando projetos e aprimorando minhas habilidades.
+  Busco evoluir constantemente na área de desenvolvimento de software, criando projetos e aprimorando minhas habilidades. Além disso, tenho interesse em estudar Application Security, explorando práticas de desenvolvimento seguro e segurança ofensiva.
 </p>
+
 
 <br>
 
