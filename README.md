@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:D00405,100:1A1A1A&text=Italo%20Sousa&desc=Backend%20Developer%20|%20Future%20AppSec&fontColor=FFFFFF&descColor=FFFFFF&fontAlign=50&animation=fadeIn&fontSize=50&fontAlignY=30&descAlignY=52"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:D00405,100:1A1A1A&text=Italo%20Sousa&desc=Backend%20Developer%20|%20Future%20AppSec&fontColor=FFFFFF&descColor=FFFFFF&fontAlign=50&animation=fadeIn&fontSize=50&fontAlignY=30&descAlignY=52"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=D00405&size=22&center=true&vCenter=true&width=600&lines=Backend+Developer;Node.js+%7C+NestJS+%7C+TypeScript;Future+AppSec"/>
