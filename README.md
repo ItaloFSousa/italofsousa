@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E0234E&height=130&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF2851&height=130&section=header"/>
 
 <h1 align="center">Italo Sousa</h1>
 
